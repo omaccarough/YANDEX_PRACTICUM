@@ -20,8 +20,5 @@
 ## Используемые библиотеки
 *pandas*, *numpy*,  *matplotlib*, *seaborn*, *scipy*, *math*
 scipy, math
-
-test
-test
-test
+ 
   
